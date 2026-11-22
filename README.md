@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Renan
 
-### Software Engineering Undergraduate
+# Software Engineering Undergraduate
  ## README under construction... 
 
 <div align="center">
