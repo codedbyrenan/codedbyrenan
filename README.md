@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
+  <img src="https://media.giphy.com/gifs/perfect-loops-17mNCcKU1mJlrbXodo/giphy.gif"
        width="250"
        alt="Funny cat GIF">
 </div>
