@@ -6,11 +6,9 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com//media/17mNCcKU1mJlrbXodo/giphy.gif"
-       width="250"
-       alt="Animated GIF">
-</div>
-
-
-
+  <img
+    src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif"
+    width="250"
+    alt="Animated GIF"
+  />
 </div>
